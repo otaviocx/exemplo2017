@@ -1,7 +1,7 @@
 package br.edu.fasam.exemplo2017;
 
 /**
- * Hello world!
+ * Hello world do arquetipo!
  *
  */
 public class App 
