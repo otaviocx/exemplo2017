@@ -6,7 +6,7 @@ public class Circulo implements FiguraGeometrica {
 	public Circulo(Double raio) {
 		this.raio = raio;
 	}
-	  
+	   
 	public Double getArea() {
 		return Math.PI*raio*raio;				
 	}
